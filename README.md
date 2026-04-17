@@ -1,4 +1,4 @@
-![A Github workflow status badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![A Github workflow status badge](https://github.com/somenerd-bootdev/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
