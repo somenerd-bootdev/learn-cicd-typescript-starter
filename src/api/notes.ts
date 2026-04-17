@@ -20,7 +20,7 @@ export async function handlerNotesCreate(
 ) {
 
   //Intentional error!
-  throw new Error("Greetings, CI");
+  throw new!!!! Error("Greetings, CI");
 
   try {
     const { note } = req.body;
