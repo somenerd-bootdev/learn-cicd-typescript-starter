@@ -18,14 +18,9 @@ export async function handlerNotesCreate(
   res: Response,
   user: User,
 ) {
-
-  //Intentional error!
-  throw new!!!! Error("Greetings, CI");
-
   try {
     const { note } = req.body;
     const noteId = uuidv4();
-
 
     await createNote({
       id: noteId,
