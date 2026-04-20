@@ -1,4 +1,4 @@
-![A Github workflow status badge](https://github.com/somenerd-bootdev/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![A Github workflow status badge for continuous integration](https://github.com/somenerd-bootdev/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg) | ![A Github workflow status badge for continuous delivery](https://github.com/somenerd-bootdev/learn-cicd-typescript-starter/actions/workflows/cd.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
